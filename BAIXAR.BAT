@@ -3,5 +3,7 @@
 echo on
 git init
 pause
+git pull
+pause
 git pull https://github.com/JeffersonGreg/Excel
 pause
