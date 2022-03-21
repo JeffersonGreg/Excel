@@ -7,3 +7,5 @@ git add .
 pause
 git commit -m "BACKUP DE HOJE"
 PAUSE
+git push 
+pause
